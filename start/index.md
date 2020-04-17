@@ -1,3 +1,8 @@
+<img src="login.jpg" width="100%" height="auto" alt="free website on github" title="free website on github" /> 
+<p style="text-align: center; font-style: italic; font-size: small">
+    Login user - <b>the-user-you-are</b>.
+</p> 
+
 GitHub Pages are public webpages.
 They are hosted and easily published through GitHub.
 You can use Github for free.
