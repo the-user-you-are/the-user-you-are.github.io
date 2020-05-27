@@ -102,6 +102,18 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </p>
 
+#### bold and italics
+
+```html
+<p style="text-align: justify;">
+<b><i>My paragraph:</i></b><br> L<b>o</b>rem ipsum d<b>o</b>l<b>o</b>r sit amet, consectetur adipiscing elit,<br> sed <i>do</i> eiusmod tempor incididunt <i>ut</i> labore <i>et</i> dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+```
+
+<p style="text-align: justify;">
+<b><i>My paragraph:</i></b><br> L<b>o</b>rem ipsum d<b>o</b>l<b>o</b>r sit amet, consectetur adipiscing elit,<br> sed <i>do</i> eiusmod tempor incididunt <i>ut</i> labore <i>et</i> dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+
 ## Image in paragraph modules
 
 ### modules with image - markdown
