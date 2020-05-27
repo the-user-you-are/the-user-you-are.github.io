@@ -63,6 +63,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### simple formatting - html
 
+#### text-align center
+
+```html
+<p style="text-align: center">center<p>
+```
+<p style="text-align: center">center<p>
+  
+#### text-align right
+
+#### text-align justify
+
 ## Image in paragraph modules
 
 ### modules with image - markdown
