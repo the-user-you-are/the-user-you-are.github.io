@@ -148,11 +148,11 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 #### set alignment
 
 ```html
-<p text-align="center">
+<p style="text-align: center;">
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
 </p>
 ```
 
-<p text-align="center">
+<p style="text-align: center;">
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
 </p>
