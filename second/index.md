@@ -1,10 +1,12 @@
 # Module oriented model in word processing
 
-## Text 
+## Text paragraph modules
 
 ### simple formatting - markdown
 
 ### simple formatting - html
+
+## Image in paragraph modules
 
 ### modules with image - markdown
 
