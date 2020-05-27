@@ -4,11 +4,18 @@
 
 ### simple formatting - markdown
 
-To create paragraphs, use a blank line to separate one or more lines of text:
+#### To create paragraphs, use a blank line to separate one or more lines of text:
 
 First paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Second paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### To create a line break (<br>), end a line with two or more spaces, and then type return.
+
+My paragraph:  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,  
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### simple formatting - html
 
