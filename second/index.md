@@ -26,6 +26,12 @@ L**o**rem ipsum d**o**l**o**r sit amet, c**o**nsectetur adipiscing elit,
 sed __do__ eiusmod tempor incididunt __ut__ labore __et__ dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+```md
+__My paragraph:__  
+L**o**rem ipsum d**o**l**o**r sit amet, c**o**nsectetur adipiscing elit,  
+sed __do__ eiusmod tempor incididunt __ut__ labore __et__ dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+```
 
 ### simple formatting - html
 
