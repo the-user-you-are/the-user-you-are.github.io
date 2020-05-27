@@ -160,3 +160,19 @@ the hill
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
 the hill
 </p>
+
+#### set vertical alignment
+
+```html
+<p style="text-align: center;">
+<img style="vertical-align: middle" src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
+</p>
+```
+
+<p style="text-align: center;">
+<img style="vertical-align: middle" src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
+</p>
+
+
