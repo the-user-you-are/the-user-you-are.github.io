@@ -124,7 +124,7 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 ![Image](https://....)
 ```
 
-![Image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg)
+![Image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "My image")
 
 
 ### modules with image - html
