@@ -129,3 +129,7 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 
 ### modules with image - html
 
+#### default
+
+<img src="hill.jpg" alt="hill" title="hill" />
+
