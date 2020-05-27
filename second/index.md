@@ -175,4 +175,16 @@ the hill
 the hill
 </p>
 
+```html
+<p style="text-align: center;">
+<img style="vertical-align: top" src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
+</p>
+```
+
+<p style="text-align: center;">
+<img style="vertical-align: top" src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
+</p>
+
 
