@@ -47,6 +47,19 @@ L*o*rem ipsum d*o*l*o*r sit amet, c*o*nsectetur adipiscing elit,
 sed _do_ eiusmod tempor incididunt _ut_ labore _et_ dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ```
+To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+
+___My paragraph:___  
+L***o***rem ipsum d***o***l***o***r sit amet, c***o***nsectetur adipiscing elit,  
+sed ___do___ eiusmod tempor incididunt ___ut___ labore ___et___ dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+```md
+___My paragraph:___  
+L***o***rem ipsum d***o***l***o***r sit amet, c***o***nsectetur adipiscing elit,  
+sed ___do___ eiusmod tempor incididunt ___ut___ labore ___et___ dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+```
 
 ### simple formatting - html
 
