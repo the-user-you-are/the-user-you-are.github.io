@@ -66,11 +66,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 #### text-align center
 
 ```html
-<p style="text-align: center">center<p>
+<p style="text-align: center;">center<p>
 ```
-<p style="text-align: center">center<p>
+<p style="text-align: center;">center<p>
   
 #### text-align right
+
+```html
+<p style="text-align: right;">center<p>
+```
+<p style="text-align: right;">center<p>
+  
 
 #### text-align justify
 
