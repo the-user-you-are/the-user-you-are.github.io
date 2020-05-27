@@ -152,6 +152,7 @@ the hill
 ```html
 <p style="text-align: center;">
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
 </p>
 ```
 
