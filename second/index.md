@@ -10,7 +10,7 @@ First paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 
 Second paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-#### To create a line break (<br>), end a line with two or more spaces, and then type return.
+#### To create a line break (`<br>`), end a line with two or more spaces, and then type return.
 
 My paragraph:  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,  
