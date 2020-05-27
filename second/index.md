@@ -140,7 +140,19 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 #### set size
 
 ```html
-<img src="hill.jpg" width="50px" height="auto" alt="hill" title="hill" />
+<img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
 ```
 
-<img src="hill.jpg" width="50px" height="auto" alt="hill" title="hill" />
+<img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+
+#### set alignment
+
+```html
+<p text-align="center">
+<img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+</p>
+```
+
+<p text-align="center">
+<img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+</p>
