@@ -66,19 +66,27 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 #### text-align center
 
 ```html
-<p style="text-align: center;">center<p>
+<p style="text-align: center;">center</p>
 ```
-<p style="text-align: center;">center<p>
+<p style="text-align: center;">center</p>
   
 #### text-align right
 
 ```html
-<p style="text-align: right;">center<p>
+<p style="text-align: right;">right</p>
 ```
-<p style="text-align: right;">center<p>
-  
+<p style="text-align: right;">right</p>
 
 #### text-align justify
+
+```html
+<p style="text-align: justify;">
+  Lorem ipsum...
+</p>
+```
+<p style="text-align: justify;">
+My paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
 
 ## Image in paragraph modules
 
