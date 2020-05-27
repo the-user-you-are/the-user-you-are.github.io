@@ -131,5 +131,16 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 
 #### default
 
+```html
+<img src="hill.jpg" alt="hill" title="hill" />
+```
+
 <img src="hill.jpg" alt="hill" title="hill" />
 
+#### set size
+
+```html
+<img src="hill.jpg" width="50px" height="auto" alt="hill" title="hill" />
+```
+
+<img src="hill.jpg" width="50px" height="auto" alt="hill" title="hill" />
