@@ -19,7 +19,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 #### Emphasis
 
-You can add emphasis by making text bold or italic. To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+You can add emphasis by making text bold or italic.  
+To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
 
 __My paragraph:__  
 L**o**rem ipsum d**o**l**o**r sit amet, c**o**nsectetur adipiscing elit,  
@@ -30,6 +31,20 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 __My paragraph:__  
 L**o**rem ipsum d**o**l**o**r sit amet, c**o**nsectetur adipiscing elit,  
 sed __do__ eiusmod tempor incididunt __ut__ labore __et__ dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+```
+
+To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+
+_My paragraph:_  
+L*o*rem ipsum d*o*l*o*r sit amet, c*o*nsectetur adipiscing elit,  
+sed _do_ eiusmod tempor incididunt _ut_ labore _et_ dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+```md
+_My paragraph:_  
+L*o*rem ipsum d*o*l*o*r sit amet, c*o*nsectetur adipiscing elit,  
+sed _do_ eiusmod tempor incididunt _ut_ labore _et_ dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ```
 
