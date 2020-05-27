@@ -141,9 +141,11 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 
 ```html
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
 ```
 
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
 
 #### set alignment
 
@@ -155,4 +157,5 @@ My paragraph:<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> s
 
 <p style="text-align: center;">
 <img src="hill.jpg" width="auto" height="80px" alt="hill" title="hill" />
+the hill
 </p>
