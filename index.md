@@ -10,15 +10,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Go first
 
+### 10, 9, 8 ... fire
+
+[start](start)
+
 [1.](first)
 
 ### Second
 
 [2.](second)
-
-### & Third
-
-[3.](third)
 
 ```markdown
 Syntax highlighted code block
