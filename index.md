@@ -8,11 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Go first
-
-### 10, 9, 8 ... fire
+## 10, 9, 8 ... fire
 
 [start](start)
+
+### Go first
 
 [1.](first)
 
