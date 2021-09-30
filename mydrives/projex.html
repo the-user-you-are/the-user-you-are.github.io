@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, 
+                                   initial-scale=1, 
+                                   shrink-to-fit=no" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Linkek</title>
+	<base target="_blank">
+
+	<link rel="stylesheet" href="style.css"?t=123456 />
+    <link rel="stylesheet" href="https://cdnjs.Cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" />
+</head>
+
+<body>
+	
+	<header id="myHead" class="myHead">
+
+		<h1>
+			Reusable HTML & CSS programming
+		</h1>
+
+		<style contenteditable="true">
+			body {
+				background-color: snow;
+			}
+			
+		</style>
+	
+		<hr />
+	</header>
+
+
+    <div class="container">
+
+		<h1>
+			Üvegek, lapkák
+		</h1>
+
+		<article>
+			<a class="megalink" href="http://uveglapka.hu/szolgaltatasok_reszletek.html">
+				<b>Üveg - Lapka Kft.</b>
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<a class="megalink" href="http://uveglapka.hu/szolgaltatasok_reszletek.html">
+				Üveg - Lapka Kft.
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<br />
+			
+			<a class="megalink" href="https://www.matrauveg.hu/termekkategoria/konzerv-befott-uvegek/">
+				<b>Üveg-Gyöngy Mátra Kft.</b>
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<a class="megalink" href="https://www.matrauveg.hu/termekkategoria/konzerv-befott-uvegek/">
+				Üveg-Gyöngy Mátra Kft 
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<br />
+		</article>
+
+			<h1>
+				Chili paprika
+			</h1>
+			
+		<article>
+			<a class="megalink" href="https://www.kertimag.com/main.php?focsop=Delik%E1tesz&csop=Chilipaprik%E1k">
+				<b>RÉDEI KERTIMAG - Vetőmagkereskedelmi Zrt.</b>
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<a class="megalink" href="https://www.kertimag.com/main.php?focsop=Delik%E1tesz&csop=Chilipaprik%E1k">
+				RÉDEI KERTIMAG - Vetőmagkereskedelmi Zrt.
+			</a>
+			<br />&nbsp;&nbsp;&nbsp;&nbsp;
+			<br />
+		</article>
+
+    </div>
+
+	<footer id='myFoot' class='myFoot'>
+		<hr />
+		<button class="reloadbutton" onclick=reloadMyScript()> reload </button> 
+	</footer>
+
+<script>
+	var myFooter = document.getElementById("myFoot"); 
+	var myScript = document.createElement("script");
+	myScript.className = "sample";
+	myScript.innerHTML = "// editable javascript block. If ready press reload! ";
+	myScript.contentEditable = "true";
+	myFooter.appendChild(myScript);
+	
+	function reloadMyScript(){
+		myScript.remove();
+		myFooter.appendChild(myScript);
+	}
+</script>
+
+</body>
+
+</html>
